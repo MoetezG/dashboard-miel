@@ -1,4 +1,7 @@
+![ Miel Famille Guesmi](![image](https://github.com/MoetezG/dashboard-miel/assets/119827227/666c9170-4047-4a9a-835e-fa7e6a5db2ad)
+).
 # dashboard-miel
+
 A dashboard admin for a Health Food Store  Miel Famille Guesmi 
   <h3 align="left">Connect with them:</h3>
 <p align="left">
